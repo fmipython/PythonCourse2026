@@ -51,6 +51,7 @@
 
 - [Чат асистент, разполагащ с материалите на курса](https://notebook.google.com/notebook/39264af4-5547-4116-9368-4453ba44791a)
 - [AGENTS.md](https://github.com/fmipython/PythonCourse2026/blob/main/misc/AGENTS.md) файл, включващ информация от тази политика
+- [Как да настроите AGENTS.md](https://github.com/fmipython/PythonCourse2026/blob/main/misc/agents_setup.md) за Claude Code, Codex и GitHub Copilot
 
 ---
 
