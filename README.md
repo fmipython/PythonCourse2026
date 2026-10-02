@@ -6,7 +6,7 @@ Github repository към курса "Програмиране с Python" във 
 
 ## Контакти
 
-Влезте в нашия **Discord сървър**: [линк СКОРО](https://armenskipop.com)
+Влезте в нашия **Discord сървър**: [линк](https://discord.gg/pQPn6qMwm)
 
 Ако имате конкретен въпрос, но не се ориентирате из информацията тук (или пък просто ви мързи да я изчетете), може да питате нашия дискорд бот *Pytoni* 🤌
 
@@ -20,7 +20,7 @@ Github repository към курса "Програмиране с Python" във 
 
 ## Провеждане
 
-Правете справка в [календара на курса](https://docs.google.com/spreadsheets/d/1qwCVPm9Ds6JYSzCfAGYmV-ClSvWOV08YxnqOQH3fvbE/edit?gid=0#gid=0) (държим го up-to-date)
+Правете справка в [календара на курса](https://docs.google.com/spreadsheets/d/1qwCVPm9Ds6JYSzCfAGYmV-ClSvWOV08YxnqOQH3fvbE) (държим го up-to-date)
 
 * Понеделник 19-21, зала TBA
 * Четвъртък 19-21, зала TBA
@@ -65,7 +65,7 @@ JupyterBook "книжка" с всички теми има тук: https://fmipy
 | 14.12.2026 | ≤ 14    |
 | 11.01.2027 | всички  |
 
-Следете [календара](https://docs.google.com/spreadsheets/d/1qwCVPm9Ds6JYSzCfAGYmV-ClSvWOV08YxnqOQH3fvbE/edit?gid=0#gid=0) за евентуални промени.
+Следете [календара](https://docs.google.com/spreadsheets/d/1qwCVPm9Ds6JYSzCfAGYmV-ClSvWOV08YxnqOQH3fvbE) за евентуални промени.
 
 ## Оценяване
 
