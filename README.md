@@ -22,8 +22,8 @@ Github repository към курса "Програмиране с Python" във 
 
 Правете справка в [календара на курса](https://docs.google.com/spreadsheets/d/1qwCVPm9Ds6JYSzCfAGYmV-ClSvWOV08YxnqOQH3fvbE) (държим го up-to-date)
 
-* Понеделник 19-21, зала TBA
-* Четвъртък 19-21, зала TBA
+* Понеделник 19-21, зала 325
+* Четвъртък 19-21, зала 101
 
 ### Лекции
 
