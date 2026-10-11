@@ -67,6 +67,15 @@ JupyterBook "книжка" с всички теми има тук: https://fmipy
 
 Следете [календара](https://docs.google.com/spreadsheets/d/1qwCVPm9Ds6JYSzCfAGYmV-ClSvWOV08YxnqOQH3fvbE) за евентуални промени.
 
+### Полезни линкове
+
+-[Github repository с материалите](https://github.com/fmipython/PythonCourse2026)
+-[Сайт на курса](https://fmipython.github.io/PythonCourse2026/)
+-[Календар](https://docs.google.com/spreadsheets/d/1qwCVPm9Ds6JYSzCfAGYmV-ClSvWOV08YxnqOQH3fvbE)
+-[Чат агент с материалите](https://notebook.google.com/notebook/39264af4-5547-4116-9368-4453ba44791a)
+-[Политика за използване на AI](https://github.com/fmipython/PythonCourse2026/blob/main/ai_policy.md)
+-[Списък с теми за проект](https://github.com/fmipython/PythonCourse2026/tree/main/project-topics)
+
 ## Оценяване
 
 Крайната оценка (мин 2, макс 6) се изчислява по следната формула:
