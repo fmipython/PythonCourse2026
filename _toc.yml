@@ -24,6 +24,10 @@ parts:
   - file: "16 - Using C code in Python/16 - Using C code in Python"
   - file: "17 - numpy, pandas, matplotlib/17 - numpy, pandas, matplotlib"
 
+- caption: Workshops
+  chapters:
+  - file: workshops/workshop1
+
 
 - caption: Проекти
   chapters:
