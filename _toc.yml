@@ -26,7 +26,9 @@ parts:
 
 - caption: Workshops
   chapters:
-  - file: workshops/workshop1
+  - file: workshops/workshop1/workshop1
+    sections:
+    - file: workshops/workshop1/workshop1_solutions
 
 
 - caption: Проекти
