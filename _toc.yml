@@ -31,7 +31,10 @@ parts:
     - file: workshops/workshop1/workshop1_solutions
   - file: workshops/workshop2/workshop2
     sections:
-    - file: workshops/workshop1/workshop2_solutions
+    - file: workshops/workshop2/workshop2_solutions
+  - file: workshops/workshop3/workshop3
+    sections:
+    - file: workshops/workshop3/workshop3_solutions
 
 
 - caption: Проекти
